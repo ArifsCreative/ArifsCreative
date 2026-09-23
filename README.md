@@ -1,4 +1,4 @@
-# Hi 👋, I'm <ARIFUR RAHAMAN>  
+# Hi 👋, I'm ARIFUR RAHAMAN
 ### 🔭 Building AI-Driven Full-Stack Web Applications
 
 ---
